@@ -83,11 +83,11 @@ deploy:
 
 theme_config:
   # Header
-  navbar_brand: <img src="/navbrand.png">
+  navbar_brand: <img style="max-width:225px" src="/vlybrand-named-100.png">            
   menu:
     Home: index.html
     Archives: archives/
-    'Another Page': page/index.html
+    'Getting Started': home/index.html
   widgets:
    - about
    - category
