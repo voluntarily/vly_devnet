@@ -1,0 +1,3 @@
+[submodule "themes/bootstrap-blog"]
+	path = themes/bootstrap-blog
+	url = https://github.com/cgmartin/hexo-theme-bootstrap-blog.git
