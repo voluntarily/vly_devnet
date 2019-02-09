@@ -76,14 +76,18 @@ pagination_dir: page
 theme: bootstrap-blog
 
 # Deployment
+
+# Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-
+  type: git
+  repo: https://github.com/voluntarily/vly_devnet
+  branch: gh-pages
+  message:
 
 theme_config:
   # Header
-  navbar_brand: <img style="max-width:225px" src="/vlybrand-named-100.png">            
+  navbar_brand: <img style="max-width:225px" src="/vlybrand-named-100.png">
   menu:
     Home: index.html
     Archives: archives/
