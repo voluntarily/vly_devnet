@@ -6,12 +6,15 @@
  * styles are found within the other CSS files, with this one included last.
  *
  * Bootstrap and Hexo markdown style overrides would typically happen here.
+ *
+ * Voluntari.ly theme by Andrew Watkins
  */
 
 /* Globals */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
 }
 
