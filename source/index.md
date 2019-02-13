@@ -1,8 +1,21 @@
-# vly_devnet
+---
+title: Step Up
+date: 2019-02-07 14:16:17
+---
+ Our goal is to build a great plaform that links corporate and independent volunteers with schools to give students in New Zealand great opportunities to become digitally literate and learn great tech skills.
+
+To do that we support volunteers with everything they need to be *School Ready*, not just with preparation and training but with access to great content: that is projects, equipment and everything else needed to be age appropriate, real world relevant, engaging and interesting.
+
+We want the volunteers, teachers and students all to get the best out of the experience.
+
+To build the platform we need your help. We want your tech skills, your volunteer time and your knowledge of content and teaching to help make the voluntari.ly platform truly relevant and successful.
+
 
 # Get started as a contributor to Voluntari.ly
 
 Help us build a platform that connects corporate volunteer time with classrooms to teach science, technology, engineering, entrepreneurship, arts and design with the help of engaging content supplied by New Zealand’s leading innovators in educational content.
+
+To do that we support volunteers with everything they need to be School ready, not just with preparation and training but with access to great content: that is projects, equipment and everything else needed to be age appropriate, real world relevant, engaging and interesting.
 
 Voluntari.ly is based in Auckland, New Zealand and while we want to build a global support community it will be easiest to participate in our regular hackathons and code sprints if you are nearby.
 
