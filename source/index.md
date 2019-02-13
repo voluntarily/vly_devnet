@@ -38,7 +38,7 @@ To build this product we need all kinds of help including
 
 # Open Source Licence & Code of Conduct
 Voluntari.ly uses the Mozilla Public License [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
-Please read and internally assent to our [code of conduct](../code-of-conduct/index.html)
+Please read and internally assent to our [code of conduct](code-of-conduct/index.html)
 
 # Team Organisation
 ### Ring 0 - Core Product team
