@@ -54,7 +54,7 @@ Key engineers (developers, BA, architects, QA, devops) who are helping to establ
 
 This group will help us setup the project, decide on the software stack and tools, act as the technical advisory group and help with integration and developing feature stories.  You'll also help mentor the contributing engineers and lead groups in the code sprints.
 
-Anyone can join this group but we are looking for some industry experience and being prepared to commit some sustained time the the project over the first year. Ideally the company that you work for can also support donating some of your time to the project.
+Anyone can join this group but we are looking for some industry experience and being prepared to commit some sustained time the project over the first year. Ideally the company that you work for can also support donating some of your time to the project.
 
 Please get in touch at
 <a href="mailto:kiaora@volutari.ly">kiaora@volutari.ly</a>
